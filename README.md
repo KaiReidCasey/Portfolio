@@ -1,6 +1,6 @@
 # Rough portfolio of my work:
 
-Work done with a small team at a former company: acmepayment.com
+Work done as a part of a heavily collaborative small team at a previous place of employment: acmepayment.com
 
 Website: kaireidcasey.com
 
