@@ -1,8 +1,8 @@
-# Rough portfolio of my work:
+# Portfolio of my work:
 
 Work done as a part of a heavily collaborative small team at a previous place of employment: acmepayment.com
 
-Website: kaireidcasey.com
+Personal website: kaireidcasey.com
 
 Codepen.io: https://codepen.io/kaireidcasey
 
