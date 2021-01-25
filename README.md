@@ -16,6 +16,8 @@ Work done as a part of a heavily collaborative small team at a previous place of
 
 [FreeCodeCamp](https://www.freecodecamp.org/kaireidcasey) - Front-end
 
+[HackerRank](https://www.hackerrank.com/KaiReidCasey) - C++, COBOL, RegEx
+
 [LeetCode](https://leetcode.com/kaireidcasey/) - PHP
 
 [StackOverflow](https://stackoverflow.com/users/13923441/kai?tab=profile) - Ask Ubuntu
