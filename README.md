@@ -2,6 +2,7 @@
 
 ## Personal Websites  
 [Personal website](kaireidcasey.github.io/)  
+
 [Former personal website](kaireidcasey.com) //Merging later  
 
 ## Various Activity on Web  
