@@ -8,13 +8,15 @@
 
 Work done as a part of a heavily collaborative small team at a previous place of employment: [acmepayment.com](acmepayment.com)
 
-[Codepen.io](https://codepen.io/kaireidcasey)
+[Codepen.io](https://codepen.io/kaireidcasey) - Goofing off & FreeCodeCamp challenge
 
-[FreeCodeCamp](https://www.freecodecamp.org/kaireidcasey)
+[CodeSignal](https://app.codesignal.com/profile/kaireidcasey) - JavaScript
 
-[LeetCode](https://leetcode.com/kaireidcasey/)
+[FreeCodeCamp](https://www.freecodecamp.org/kaireidcasey) - Front-end
 
-[StackOverflow](https://stackoverflow.com/users/13923441/kai?tab=profile)
+[LeetCode](https://leetcode.com/kaireidcasey/) - PHP
+
+[StackOverflow](https://stackoverflow.com/users/13923441/kai?tab=profile) - Ask Ubuntu
 
 ## LinkedIn  
 [LinkedIn](https://www.linkedin.com/in/kaiadrianreidcasey/)
