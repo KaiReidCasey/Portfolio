@@ -1,6 +1,7 @@
 # Portfolio of my work:
 
 ## Personal Websites  
+
 [Personal website](kaireidcasey.github.io/)  
 
 [Former personal website](kaireidcasey.com) //Merging later  
@@ -20,4 +21,5 @@ Work done as a part of a heavily collaborative small team at a previous place of
 [StackOverflow](https://stackoverflow.com/users/13923441/kai?tab=profile) - Ask Ubuntu
 
 ## LinkedIn  
+
 [LinkedIn](https://www.linkedin.com/in/kaiadrianreidcasey/)
