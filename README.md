@@ -1,17 +1,18 @@
 # Portfolio of my work:
 
-Work done as a part of a heavily collaborative small team at a previous place of employment: acmepayment.com
+## Personal website  
+[Personal website](kaireidcasey.github.io/)  
+[Former personal website](kaireidcasey.com) //Merging later  
 
-Personal website: kaireidcasey.github.io/  
-*Former one: kaireidcasey.com*  
-*Will merge later*
+## Various Code on Web  
 
-Codepen.io: https://codepen.io/kaireidcasey
+Work done as a part of a heavily collaborative small team at a previous place of employment: [acmepayment.com](acmepayment.com)
 
-FreeCodeCamp: https://www.freecodecamp.org/kaireidcasey
+[Codepen.io](https://codepen.io/kaireidcasey)
 
-LeetCode: https://leetcode.com/kaireidcasey/
+[FreeCodeCamp](https://www.freecodecamp.org/kaireidcasey)
 
-## LinkedIn:
+[LeetCode](https://leetcode.com/kaireidcasey/)
 
-https://www.linkedin.com/in/kaiadrianreidcasey/
+## LinkedIn  
+[LinkedIn](https://www.linkedin.com/in/kaiadrianreidcasey/)
