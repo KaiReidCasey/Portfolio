@@ -18,7 +18,7 @@ Work done as a part of a heavily collaborative small team at a previous place of
 
 [HackerRank](https://www.hackerrank.com/KaiReidCasey) - C++, COBOL, RegEx
 
-[LeetCode](https://leetcode.com/kaireidcasey/) - PHP
+[LeetCode](https://leetcode.com/kaireidcasey/) - PHP & Python
 
 [StackOverflow](https://stackoverflow.com/users/13923441/kai?tab=profile) - Ask Ubuntu
 
