@@ -4,7 +4,7 @@
 
 [Personal website](https://kaireidcasey.github.io/)  
 
-[Former personal website](www.kaireidcasey.com) //Merging later  
+[Former personal website](http://www.kaireidcasey.com) //Merging later  
 
 ## Various Activity on Web  
 
