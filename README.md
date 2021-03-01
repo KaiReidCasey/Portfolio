@@ -2,9 +2,9 @@
 
 ## Personal Websites  
 
-[Personal website](kaireidcasey.github.io/)  
+[Personal website](https://kaireidcasey.github.io/)  
 
-[Former personal website](kaireidcasey.com) //Merging later  
+[Former personal website](www.kaireidcasey.com) //Merging later  
 
 ## Various Activity on Web  
 
