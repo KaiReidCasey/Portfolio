@@ -34,7 +34,7 @@ Work done as a part of a heavily collaborative small team at a previous place of
 
 [Autumn Teh Kitty](https://www.youtube.com/channel/UC_hXyaxRRar0AyF6CgIyuyQ) - Videos of my cat (Semi-frequent updates)  
 
-[Nature N Stuff](https://www.youtube.com/channel/UCcfOHbAIcV64I-OyG0wKjWw) - Videos of plants, animals, and water (frequent updates)  
+[Nature N Stuff](https://www.youtube.com/channel/UCcfOHbAIcV64I-OyG0wKjWw) - Videos of plants, animals, and water (Frequent updates)  
 
 ## LinkedIn  
 
