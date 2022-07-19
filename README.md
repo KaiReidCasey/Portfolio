@@ -18,7 +18,7 @@ Work done as a part of a heavily collaborative small team at a previous place of
 
 [FreeCodeCamp](https://www.freecodecamp.org/kaireidcasey) - Front-end
 
-[HackerRank](https://www.hackerrank.com/KaiReidCasey) - C++, COBOL, RegEx
+[HackerRank](https://www.hackerrank.com/KaiReidCasey) - C++, COBOL, Python, RegEx
 
 [LeetCode](https://leetcode.com/kaireidcasey/) - PHP & Python
 
@@ -30,9 +30,9 @@ Work done as a part of a heavily collaborative small team at a previous place of
 
 ## YouTube Channels  
 
-[Adrian's Art](https://www.youtube.com/channel/UC3GRYq4-0CcuXhbbLT4Ar8Q) - Videos of quiet coloring (Occasional updates)  
+[Adrian's Art](https://www.youtube.com/channel/UC3GRYq4-0CcuXhbbLT4Ar8Q) - Videos of quiet coloring (Rare updates)  
 
-[Autumn Teh Kitty](https://www.youtube.com/channel/UC_hXyaxRRar0AyF6CgIyuyQ) - Videos of my cat (Semi-frequent updates)  
+[Autumn Teh Kitty](https://www.youtube.com/channel/UC_hXyaxRRar0AyF6CgIyuyQ) - Videos of my cat (Frequent updates)  
 
 [Nature N Stuff](https://www.youtube.com/channel/UCcfOHbAIcV64I-OyG0wKjWw) - Videos of plants, animals, and water (Frequent updates)  
 
