@@ -38,5 +38,6 @@ Work done as a part of a heavily collaborative small team at a previous place of
 
 ## Professional Networking  
 
-[LinkedIn](https://www.linkedin.com/in/kaiadrianreidcasey/)
-[Meetup](https://www.meetup.com/members/378798123/)
+[LinkedIn](https://www.linkedin.com/in/kaiadrianreidcasey/)  
+
+[MeetUp](https://www.meetup.com/members/378798123/)
