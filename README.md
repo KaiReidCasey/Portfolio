@@ -40,4 +40,4 @@ Work done as a part of a heavily collaborative small team at a previous place of
 
 [LinkedIn](https://www.linkedin.com/in/kaiadrianreidcasey/)  
 
-[MeetUp](https://www.meetup.com/members/378798123/)
+[MeetUp](https://www.meetup.com/members/378798123/) - Attending virtual code, business, etc. gatherings across the country
