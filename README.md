@@ -10,7 +10,7 @@
 
 ## Coding Activity Around the Web  
 
-Work done as a part of a heavily collaborative small team at a previous place of employment: [acmepayment.com](acmepayment.com)
+Work done as a part of a heavily collaborative small team at a previous place of employment: [acmepayment.com](https://acmepayment.com)
 
 [Codepen.io](https://codepen.io/kaireidcasey) - Goofing off & FreeCodeCamp challenge
 
