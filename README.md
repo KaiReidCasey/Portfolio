@@ -18,6 +18,8 @@ Work done as a part of a heavily collaborative small team at a previous place of
 
 [FreeCodeCamp](https://www.freecodecamp.org/kaireidcasey) - Front-end
 
+[GitHub](https://github.com/KaiReidCasey/tiny_games) - beta versions of small games in Python, more to come
+
 [HackerRank](https://www.hackerrank.com/KaiReidCasey) - C++, COBOL, Python, RegEx
 
 [LeetCode](https://leetcode.com/kaireidcasey/) - PHP & Python
